@@ -1,0 +1,10 @@
+Feito instalação
+npm init -y
+npm i --save express@4.16.2 -E
+npm i --save nodemon
+npm i --save body-parser@1.18.2 -E
+
+Pasta src para código fonte
+
+Projeto criado apenas como CRUD em Node usando o Postman para fazer os testes dos dados.
+
